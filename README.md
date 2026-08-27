@@ -32,12 +32,6 @@ I am an engineer focused on bridging the gap between deep learning models and re
 
 ---
 
-### 📈 GitHub Stats
-
-![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavymejti&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me:
 * **LinkedIn:** [linkedin.com/in/mateusz-szymkowiak](https://linkedin.com/in/mateusz-szymkowiak)
 * **Email:** mateusz.szymkowiak@proton.me
